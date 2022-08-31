@@ -13,3 +13,18 @@
 /home/hugo/Teste/ProjetoTeste/obj/Debug/net6.0/ref/ProjetoTeste.dll
 /home/hugo/Teste/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.pdb
 /home/hugo/Teste/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.genruntimeconfig.cache
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/bin/Debug/net6.0/ProjetoTeste
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/bin/Debug/net6.0/ProjetoTeste.deps.json
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/bin/Debug/net6.0/ProjetoTeste.runtimeconfig.json
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/bin/Debug/net6.0/ProjetoTeste.dll
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/bin/Debug/net6.0/ref/ProjetoTeste.dll
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/bin/Debug/net6.0/ProjetoTeste.pdb
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.csproj.AssemblyReference.cache
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.AssemblyInfoInputs.cache
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.AssemblyInfo.cs
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.csproj.CoreCompileInputs.cache
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.dll
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ref/ProjetoTeste.dll
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.pdb
+/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/Debug/net6.0/ProjetoTeste.genruntimeconfig.cache

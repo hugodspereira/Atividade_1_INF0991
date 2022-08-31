@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hugo/Teste/ProjetoTeste/ProjetoTeste.csproj",
+      "projectUniqueName": "/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/ProjetoTeste.csproj",
       "projectName": "ProjetoTeste",
-      "projectPath": "/home/hugo/Teste/ProjetoTeste/ProjetoTeste.csproj",
+      "projectPath": "/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/ProjetoTeste.csproj",
       "packagesPath": "/home/hugo/.nuget/packages/",
-      "outputPath": "/home/hugo/Teste/ProjetoTeste/obj/",
+      "outputPath": "/home/hugo/Documents/INF099-TecnologiasMicrosoft/INF-0991 - Controle de versão/Atividade_1_INF0991/Projeto1/ProjetoTeste/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hugo/.nuget/NuGet/NuGet.Config"
