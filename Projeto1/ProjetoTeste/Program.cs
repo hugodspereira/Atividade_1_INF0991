@@ -7,6 +7,18 @@ Console.WriteLine("Agora vai");
 Console.WriteLine("Vamos lá!");
 //Alteracao do Hugo
 
-Console.WriteLine("Viva o Comtrole");
+Console.WriteLine("Viva o Controle");
+Console.WriteLine("Agora vai");
+Console.WriteLine("Agora vai");
+
+//Outra alteracao do Hugo
+
+
+Console.WriteLine("Agora vai");
+//Outra alteracao do Hugo
+Console.WriteLine("Vamos lá!");
+//Outra alteracao do Hugo
+
+Console.WriteLine("Viva o Controle");
 Console.WriteLine("Agora vai");
 Console.WriteLine("Agora vai");
